@@ -1,5 +1,5 @@
 # FaceDetector
-Find human faces in images. Work in progress.
+Find human faces in images using [JavaCV](https://github.com/bytedeco/javacv). Work in progress.
 
 Create Gradlew wrapper using `gradle wrapper` then run the face detector using `gradlew run`.
 
